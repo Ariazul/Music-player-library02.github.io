@@ -30,7 +30,7 @@ let All_song = [
      name: "Directions",
      path: "1.wav",
      img: "img1.jpg",
-     singer: "Esta pieza conceptual buscar ilustrar una porción de la afable presencia constante del sonido, que es, intrínseco en nuestras vidas como artistas. Acompañandonos en caminos inciertos dotados de emociones sensibles en sus impredecibles direcciones."
+     singer: "Pieza conceptual que busca ilustrar una pequeña porción de la afable presencia constante del sonido, que es, intrínseco en nuestras vidas como artistas, acompañandonos en caminos inciertos dotados de emociones sensibles en sus impredecibles direcciones."
    },
    {
      name: "Changer",
